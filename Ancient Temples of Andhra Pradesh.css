@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-image: url("temple image 1.jpg");
+    height: 100Vh;
+    /*width:100vw;*/
+    background-size: cover;
+}
+
+.text-bg-card {
+    text-align: center;
+    background-color: white;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    padding: 10px;
+}
+
+.main-heading {
+    color: #631341;
+    font-family: "Playfair Display";
+    font-size: 35px;
+    font-style: normal;
+    font-weight: bold;
+    /*text-decoration: underline;*/
+}
+
+.textline {
+    color: #1c1f1d;
+    font-family: "helvetica";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.button {
+    height: 37px;
+    width: 139px;
+    background-color: #25b1cc;
+    color: white;
+    border-radius: 20px;
+    border-width: 0px;
+}
+
+.favourite-place-bg-container {
+    background-image: url("image 2.jpg");
+    background-size: cover;
+    height: 100%;
+}
+
+.favourite-place-heading {
+    color: white;
+    font-family: "Playfair";
+    font-size: 29px;
+    font-weight: bold;
+    padding: 16px;
+    text-decoration: underline;
+}
+
+.favourite-place-card-container {
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.favourite-place-card-heading {
+    color: #030202;
+    font-family: "Playfair";
+    font-size: 19px;
+    font-weight: bold;
+}
+
+.favourite-place-card-description {
+    color: #4e524f;
+    font-family: "Roboto";
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.favourite-place-card-image {
+    width: 100px;
+    height: 150px;
+}
+
+.detailed-view-bg-container {
+    background-image: url("image 3.jpg");
+    height: 100%;
+    background-size: cover;
+}
+
+.detailed-view-heading {
+    color: white;
+    font-family: "Playfair";
+    font-size: 35px;
+    font-weight: bold;
+    padding: 20px;
+}
+
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-left-radius: 9px;
+    border-bottom-right-radius: 9px;
+    margin: 20px;
+}
+
+.detailed-view-card-heading {
+    color: #030202;
+    font-family: "Playfair";
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.detailed-view-card-description {
+    color: #4e524f;
+    font-family: "Roboto";
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.detailed-view-card-text-container {
+    padding: 19px;
+}
