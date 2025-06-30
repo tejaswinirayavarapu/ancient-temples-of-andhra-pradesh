@@ -1,5 +1,5 @@
-# ancient-temples-of-andhra-pradesh
-🛕 Ancient Temples of Andhra Pradesh
+# Ancient Temples of Andhra Pradesh
+# Ancient Temples of Andhra Pradesh
 This is a static website built using HTML, CSS, and Bootstrap, designed to showcase the rich cultural heritage and iconic temples of Andhra Pradesh, India.
 
 # Features
@@ -21,13 +21,13 @@ Mallikarjuna Temple, Srisailam
 Sri Varasidhi Vinayaka Temple, Kanipakam
 Sri Varaha Lakshmi Narasimha Temple, Simhachalam
 
-🎯 How to Run
+# How to Run
 Clone or download this repo
 Make sure Ancient Temples of Andhra Pradesh.html and Ancient Temples of Andhra Pradesh.css are in the same folder
 Open the HTML file in any web browser
 That’s it. No setup needed!
 
-📁 Folder Structure
+# Folder Structure
 /project-folder
 ├── Ancient Temples of Andhra Pradesh.html
 ├── Ancient Temples of Andhra Pradesh.css
