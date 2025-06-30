@@ -1,5 +1,4 @@
 # Ancient Temples of Andhra Pradesh
-# Ancient Temples of Andhra Pradesh
 This is a static website built using HTML, CSS, and Bootstrap, designed to showcase the rich cultural heritage and iconic temples of Andhra Pradesh, India.
 
 # Features
